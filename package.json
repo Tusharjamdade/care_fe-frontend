@@ -115,7 +115,7 @@
     "gentype": "^4.5.0",
     "glob": "^11.0.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.3",
+    "lint-staged": "^15.2.10",
     "local-cypress": "^1.2.6",
     "postcss": "^8.4.38",
     "prettier": "^3.3.3",
